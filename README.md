@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=F7F7F7&background=000000&width=435&lines=root%40+%3E+Hi%2C+i'm+sqlmapped;I'm+know%3A+Russian%2C+English;C%23+C%2B%2B+Python+Dev;Only+on+Github+and;SimpleX)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm sqlmapped and other SQLM</h1>
+<h1 align="center">Hi 👋, I'm sqlmapped, SQLM, sqlbro</h1>
 <h3 align="center">I'm programmer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sqlmapped&label=Profile%20views&color=0e75b6&style=flat" alt="sqlmapped" /> </p>
